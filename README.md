@@ -1,2 +1,1 @@
-# my-first-devops-repo
-test repo for learning basic git operations 
+https://roadmap.sh/projects/ssh-remote-server-setup
